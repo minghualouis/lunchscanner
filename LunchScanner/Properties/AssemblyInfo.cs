@@ -7,9 +7,9 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyTitle("LunchScanner")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("${AuthorCopyright}")]
+[assembly: AssemblyCompany("CBCMG")]
+[assembly: AssemblyProduct("Lunch scanner")]
+[assembly: AssemblyCopyright("${Minghua Liu}")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
